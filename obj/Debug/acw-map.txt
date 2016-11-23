@@ -1,0 +1,4 @@
+AndroidRelativeLayout.MainActivity, AndroidRelativeLayout;md59bb0ba4e67b45e8beca5a006d70fddc7.MainActivity
+AndroidRelativeLayout.MainActivity, AndroidRelativeLayout, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59bb0ba4e67b45e8beca5a006d70fddc7.MainActivity
+AndroidRelativeLayout.MainActivity;md59bb0ba4e67b45e8beca5a006d70fddc7.MainActivity
+androidrelativelayout.MainActivity;md59bb0ba4e67b45e8beca5a006d70fddc7.MainActivity
